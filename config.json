@@ -1,0 +1,15 @@
+{
+    "title": "New Test Project",
+    "baseURL": "https:\/\/stage-publish-unpublish.tvpcdn.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": 1758991,
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "tvpcdn.com"
+    }
+}

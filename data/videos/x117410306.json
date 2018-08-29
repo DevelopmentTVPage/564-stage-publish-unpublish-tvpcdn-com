@@ -1,0 +1,51 @@
+{
+    "title": "60ecc406 9ea5 44bf e9db rudy everyday tote",
+    "description": "",
+    "referenceId": "112126751",
+    "date_created": "1416274534",
+    "date_modified": "1505161378",
+    "tags": "",
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "concept": null,
+    "homepage_gallery": null,
+    "living": null,
+    "user_id": "0",
+    "id": "117410306",
+    "loginId": "1758991",
+    "entityType": "1",
+    "titleTextEncoded": "60ecc406-9ea5-44bf-e9db-rudy-everyday-tote",
+    "category": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 8.40006,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": 55,
+    "settings": "",
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/112126751.hd.mp4?s=c4f48b4a86074d0c0ed10361f9b84bf49d5e326a&profile_id=113&oauth2_token_id=994715502"
+            }
+        ],
+        "hdvFlag": 1,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/496985747_1280x720.jpg?r=pad",
+        "mediaDuration": 55,
+        "prettyDuration": "00:55",
+        "uploadDate": 1416274534,
+        "tags": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "uploader": "",
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

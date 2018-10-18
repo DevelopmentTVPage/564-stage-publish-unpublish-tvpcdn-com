@@ -28,7 +28,7 @@
     "settings": "",
     "asset": {
         "type": "youtube",
-        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ntMcDgNZoUI\/maxresdefault.jpg",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/121360797\/thumbnail\/image-thumbnail-640-3e4eec9ef9ac9b2c44a8b8ce6519e71a.jpg",
         "uploadDate": 1403104724,
         "videoId": "ntMcDgNZoUI",
         "title": "Jerome's Furniture. A TVPage Case Study.",
@@ -36,7 +36,17 @@
         "author": "TVPage",
         "mediaDuration": 197,
         "prettyDuration": "00:03:17",
-        "views": "161"
+        "views": "161",
+        "selectableThumbnails": [
+            "\/\/v-dev.tvpage.com\/1758991\/121360797\/user-images\/image-1280-5e046a70cbac2675a438782ac7976f26.jpg"
+        ],
+        "selectedThumbnailUrl": "\/\/v-dev.tvpage.com\/1758991\/121360797\/user-images\/image-1280-5e046a70cbac2675a438782ac7976f26.jpg",
+        "thumbnails": {
+            "256": "\/\/v-dev.tvpage.com\/1758991\/121360797\/thumbnail\/image-thumbnail-256-cb22aac3954ec5d6d056dafa0f9ebbe2.jpg",
+            "480": "\/\/v-dev.tvpage.com\/1758991\/121360797\/thumbnail\/image-thumbnail-480-a5bcf91789e8688e413dd858834c65be.jpg",
+            "640": "\/\/v-dev.tvpage.com\/1758991\/121360797\/thumbnail\/image-thumbnail-640-3e4eec9ef9ac9b2c44a8b8ce6519e71a.jpg",
+            "1280": "\/\/v-dev.tvpage.com\/1758991\/121360797\/thumbnail\/image-thumbnail-1280-a5397c0f6403b529772af724eaf4ea14.jpg"
+        }
     },
     "transcripts": "",
     "metrics_statistics": "",
